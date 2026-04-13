@@ -1,15 +1,17 @@
-Welcome to your new dbt project!
+# Spotify Streaming Analytics
 
-### Using the starter project
+End-to-end music streaming analytics pipeline built with dbt and Snowflake.
+Transforms raw streaming events into a star schema with fact and dimension
+tables, delivering insights on top artists, user engagement, genre trends,
+and daily listening patterns.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Tech Stack
 
+| Tool | Purpose |
+|------|---------|
+| Snowflake | Cloud data warehouse |
+| dbt Core 1.7 | Data transformation |
+| SQL | Data modeling |
+| Git + GitHub | Version control |
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Project Architecture
