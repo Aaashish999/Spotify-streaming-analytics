@@ -1,0 +1,16 @@
+user_id,user_name,country,age,subscription_type,signup_date
+U001,alice_chen,US,24,premium,2021-03-15
+U002,bob_martinez,MX,31,free,2020-07-22
+U003,claire_dubois,FR,28,premium,2022-01-10
+U004,david_kim,KR,22,free,2021-11-05
+U005,emma_wilson,GB,35,premium,2019-09-30
+U006,felix_nguyen,VN,27,free,2022-06-18
+U007,grace_okafor,NG,29,premium,2021-04-25
+U008,henry_schmidt,DE,33,free,2020-12-01
+U009,isabella_rossi,IT,26,premium,2022-03-08
+U010,james_taylor,US,30,premium,2021-08-14
+U011,karen_brown,US,25,free,2022-09-20
+U012,liam_johnson,CA,32,premium,2020-05-17
+U013,mia_anderson,AU,23,free,2023-01-05
+U014,noah_williams,US,28,premium,2021-06-30
+U015,olivia_jones,GB,34,free,2020-10-12

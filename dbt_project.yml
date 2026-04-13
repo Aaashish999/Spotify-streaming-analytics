@@ -1,0 +1,17 @@
+name: 'spotify_streaming'
+version: '1.0.0'
+config-version: 2
+
+profile: 'spotify_streaming'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  spotify_streaming:
+    +materialized: view

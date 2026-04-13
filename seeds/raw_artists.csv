@@ -1,0 +1,16 @@
+artist_id,artist_name,genre,country,monthly_listeners_millions
+A001,Taylor Swift,Pop,US,85.2
+A002,Bad Bunny,Latin,PR,89.1
+A003,The Weeknd,R&B,CA,78.4
+A004,Drake,Hip-Hop,CA,72.6
+A005,Billie Eilish,Alternative,US,65.3
+A006,BTS,K-Pop,KR,55.8
+A007,Ed Sheeran,Pop,GB,70.1
+A008,Dua Lipa,Dance/Electronic,GB,61.9
+A009,Kendrick Lamar,Hip-Hop,US,58.2
+A010,Olivia Rodrigo,Pop,US,62.7
+A011,Harry Styles,Pop,GB,68.4
+A012,SZA,R&B,US,54.3
+A013,J. Cole,Hip-Hop,US,51.7
+A014,Ariana Grande,Pop,US,73.2
+A015,Post Malone,Hip-Hop,US,60.8

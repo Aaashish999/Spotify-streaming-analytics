@@ -1,0 +1,61 @@
+stream_id,user_id,artist_id,song_id,song_name,genre,stream_timestamp,duration_seconds,was_skipped,device_type
+S0001,U001,A001,SNG001,Anti-Hero,Pop,2024-01-01 08:15:00,201,false,mobile
+S0002,U002,A002,SNG002,Titi Me Pregunto,Latin,2024-01-01 09:30:00,198,false,desktop
+S0003,U003,A003,SNG003,Blinding Lights,R&B,2024-01-01 10:45:00,215,false,mobile
+S0004,U004,A004,SNG004,Gods Plan,Hip-Hop,2024-01-01 11:00:00,198,true,tablet
+S0005,U005,A005,SNG005,bad guy,Alternative,2024-01-01 12:15:00,194,false,mobile
+S0006,U001,A006,SNG006,Dynamite,K-Pop,2024-01-01 13:30:00,199,false,desktop
+S0007,U007,A007,SNG007,Shape of You,Pop,2024-01-01 14:45:00,234,false,mobile
+S0008,U008,A008,SNG008,Levitating,Dance/Electronic,2024-01-01 15:00:00,203,false,desktop
+S0009,U009,A009,SNG009,HUMBLE.,Hip-Hop,2024-01-01 16:15:00,177,false,mobile
+S0010,U010,A010,SNG010,drivers license,Pop,2024-01-01 17:30:00,242,false,tablet
+S0011,U011,A001,SNG001,Anti-Hero,Pop,2024-01-02 08:00:00,201,false,mobile
+S0012,U012,A011,SNG011,Watermelon Sugar,Pop,2024-01-02 09:15:00,174,false,desktop
+S0013,U013,A012,SNG012,Kill Bill,R&B,2024-01-02 10:30:00,153,false,mobile
+S0014,U014,A003,SNG003,Blinding Lights,R&B,2024-01-02 11:45:00,215,false,mobile
+S0015,U015,A004,SNG004,Gods Plan,Hip-Hop,2024-01-02 13:00:00,198,false,desktop
+S0016,U001,A013,SNG013,MIDDLE CHILD,Hip-Hop,2024-01-02 14:15:00,189,true,mobile
+S0017,U002,A014,SNG014,7 rings,Pop,2024-01-02 15:30:00,178,false,tablet
+S0018,U003,A015,SNG015,Circles,Hip-Hop,2024-01-02 16:45:00,215,false,mobile
+S0019,U004,A001,SNG001,Anti-Hero,Pop,2024-01-03 08:30:00,201,false,desktop
+S0020,U005,A002,SNG002,Titi Me Pregunto,Latin,2024-01-03 09:45:00,198,false,mobile
+S0021,U006,A007,SNG007,Shape of You,Pop,2024-01-03 11:00:00,234,false,mobile
+S0022,U007,A008,SNG008,Levitating,Dance/Electronic,2024-01-03 12:15:00,203,false,desktop
+S0023,U008,A003,SNG003,Blinding Lights,R&B,2024-01-03 13:30:00,215,false,mobile
+S0024,U009,A005,SNG005,bad guy,Alternative,2024-01-03 14:45:00,194,false,tablet
+S0025,U010,A006,SNG006,Dynamite,K-Pop,2024-01-03 16:00:00,199,false,mobile
+S0026,U011,A009,SNG009,HUMBLE.,Hip-Hop,2024-01-04 08:15:00,177,false,desktop
+S0027,U012,A010,SNG010,drivers license,Pop,2024-01-04 09:30:00,242,false,mobile
+S0028,U013,A011,SNG011,Watermelon Sugar,Pop,2024-01-04 10:45:00,174,false,mobile
+S0029,U014,A012,SNG012,Kill Bill,R&B,2024-01-04 12:00:00,153,false,desktop
+S0030,U015,A013,SNG013,MIDDLE CHILD,Hip-Hop,2024-01-04 13:15:00,189,false,mobile
+S0031,U001,A014,SNG014,7 rings,Pop,2024-01-05 08:00:00,178,false,mobile
+S0032,U002,A015,SNG015,Circles,Hip-Hop,2024-01-05 09:15:00,215,false,tablet
+S0033,U003,A001,SNG001,Anti-Hero,Pop,2024-01-05 10:30:00,201,false,mobile
+S0034,U004,A003,SNG003,Blinding Lights,R&B,2024-01-05 11:45:00,215,true,desktop
+S0035,U005,A004,SNG004,Gods Plan,Hip-Hop,2024-01-05 13:00:00,198,false,mobile
+S0036,U006,A002,SNG002,Titi Me Pregunto,Latin,2024-01-06 08:30:00,198,false,mobile
+S0037,U007,A005,SNG005,bad guy,Alternative,2024-01-06 09:45:00,194,false,desktop
+S0038,U008,A006,SNG006,Dynamite,K-Pop,2024-01-06 11:00:00,199,false,mobile
+S0039,U009,A007,SNG007,Shape of You,Pop,2024-01-06 12:15:00,234,false,tablet
+S0040,U010,A008,SNG008,Levitating,Dance/Electronic,2024-01-06 13:30:00,203,false,mobile
+S0041,U011,A009,SNG009,HUMBLE.,Hip-Hop,2024-01-07 08:00:00,177,false,mobile
+S0042,U012,A010,SNG010,drivers license,Pop,2024-01-07 09:15:00,242,false,desktop
+S0043,U013,A011,SNG011,Watermelon Sugar,Pop,2024-01-07 10:30:00,174,false,mobile
+S0044,U014,A003,SNG003,Blinding Lights,R&B,2024-01-07 11:45:00,215,false,mobile
+S0045,U015,A001,SNG001,Anti-Hero,Pop,2024-01-07 13:00:00,201,false,desktop
+S0046,U001,A002,SNG002,Titi Me Pregunto,Latin,2024-01-08 08:15:00,198,false,mobile
+S0047,U002,A012,SNG012,Kill Bill,R&B,2024-01-08 09:30:00,153,true,tablet
+S0048,U003,A013,SNG013,MIDDLE CHILD,Hip-Hop,2024-01-08 10:45:00,189,false,mobile
+S0049,U004,A014,SNG014,7 rings,Pop,2024-01-08 12:00:00,178,false,desktop
+S0050,U005,A015,SNG015,Circles,Hip-Hop,2024-01-08 13:15:00,215,false,mobile
+S0051,U006,A001,SNG001,Anti-Hero,Pop,2024-01-09 08:00:00,201,false,mobile
+S0052,U007,A004,SNG004,Gods Plan,Hip-Hop,2024-01-09 09:15:00,198,false,desktop
+S0053,U008,A005,SNG005,bad guy,Alternative,2024-01-09 10:30:00,194,false,mobile
+S0054,U009,A006,SNG006,Dynamite,K-Pop,2024-01-09 11:45:00,199,false,mobile
+S0055,U010,A007,SNG007,Shape of You,Pop,2024-01-09 13:00:00,234,false,tablet
+S0056,U011,A008,SNG008,Levitating,Dance/Electronic,2024-01-10 08:15:00,203,false,mobile
+S0057,U012,A009,SNG009,HUMBLE.,Hip-Hop,2024-01-10 09:30:00,177,false,desktop
+S0058,U013,A002,SNG002,Titi Me Pregunto,Latin,2024-01-10 10:45:00,198,false,mobile
+S0059,U014,A010,SNG010,drivers license,Pop,2024-01-10 12:00:00,242,false,mobile
+S0060,U015,A011,SNG011,Watermelon Sugar,Pop,2024-01-10 13:15:00,174,false,desktop

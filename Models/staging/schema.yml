@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: stg_streams
+    description: Cleaned streaming events
+    columns:
+      - name: stream_id
+        description: Unique stream identifier
+        tests:
+          - unique
+          - not_null
+      - name: user_id
+        tests:
+          - not_null
+      - name: artist_id
+        tests:
+          - not_null
+      - name: duration_seconds
+        tests:
+          - not_null
+
+  - name: stg_users
+    description: Cleaned user data
+    columns:
+      - name: user_id
+        description: Unique user identifier
+        tests:
+          - unique
+          - not_null
+      - name: subscription_type
+        tests:
+          - accepted_values:
+              values: ['premium', 'free']
+
+  - name: stg_artists
+    description: Cleaned artist data
+    columns:
+      - name: artist_id
+        description: Unique artist identifier
+        tests:
+          - unique
+          - not_null
